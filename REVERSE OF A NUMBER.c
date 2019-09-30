@@ -7,4 +7,5 @@ int main(){
 		printf("%d",N%10);
 		N/=10;
 	}
+	//The reversing of the number is very useful in finding if the number is a palindrome or not -->
 }
